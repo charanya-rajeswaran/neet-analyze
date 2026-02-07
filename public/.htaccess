@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Prevent direct file access issues
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirect all routes properly
+RewriteRule ^ index.html [L]

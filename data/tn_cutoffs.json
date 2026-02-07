@@ -1,0 +1,44 @@
+[
+  {
+    "college": "Madras Medical College",
+    "course": "MBBS",
+    "quota": "State",
+    "category": "OC",
+    "cutoff_marks": 675
+  },
+  {
+    "college": "Stanley Medical College",
+    "course": "MBBS",
+    "quota": "State",
+    "category": "OC",
+    "cutoff_marks": 665
+  },
+  {
+    "college": "Kilpauk Medical College",
+    "course": "MBBS",
+    "quota": "State",
+    "category": "BC",
+    "cutoff_marks": 650
+  },
+  {
+    "college": "Coimbatore Medical College",
+    "course": "MBBS",
+    "quota": "State",
+    "category": "BC",
+    "cutoff_marks": 640
+  },
+  {
+    "college": "Thanjavur Medical College",
+    "course": "MBBS",
+    "quota": "State",
+    "category": "SC",
+    "cutoff_marks": 590
+  },
+  {
+    "college": "Kanyakumari Medical College",
+    "course": "MBBS",
+    "quota": "State",
+    "category": "ST",
+    "cutoff_marks": 560
+  }
+]

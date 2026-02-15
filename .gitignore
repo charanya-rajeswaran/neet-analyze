@@ -24,6 +24,8 @@
 .DS_Store
 *.pem
 *.zip
+*pyc
+*pkl
 
 # debug
 npm-debug.log*

@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import ResultsClient from "./resultsClient.tsx";
+import ResultsClient from "./resultsClient";
 
 export default function ResultsPage() {
   return (

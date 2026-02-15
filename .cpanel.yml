@@ -1,6 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/$USER/public_html/
-    - /bin/mkdir -p "$DEPLOYPATH"
-    - /bin/cp -a out/. "$DEPLOYPATH"
+    - export DEPLOYPATH=/home/$USER/neet-analyze.com/
+
